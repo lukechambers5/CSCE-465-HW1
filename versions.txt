@@ -1,0 +1,7 @@
+Ubuntu | 24.04 LTS, x86-64
+VMWARE Workstation Pro | 17.6.4 build-24832109
+Node.js | 24.18
+OpenClaw | 2026.7.1-2 (0790d9f)
+Ollama | 0.32.5
+Local model | qwen3.5:4b 
+Python | 3.12.3 from Ubuntu
